@@ -4,7 +4,7 @@ Cerberus is a text-based adventure game inspired by the famous game Zork. It is 
 
 ## Description
 
-In Cerberus, players will embark on an exciting journey in the Cerberus starchip
+In Cerberus, players will embark on an exciting journey in the Cerberus starship
 
 ## Features
 
